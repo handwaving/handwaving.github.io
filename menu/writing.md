@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Writing
+title: Archive
+permalink: /archive
 ---
 <ul class="posts">
   {% for post in site.posts %}
