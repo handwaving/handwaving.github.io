@@ -7,7 +7,7 @@ google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'About', url: 'about'}
-- {name: 'Archive', url: 'writing'}
+- {name: 'Archive', url: 'archive'}
 - {name: 'Contact', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
