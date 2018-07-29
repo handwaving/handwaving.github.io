@@ -8,7 +8,7 @@ google-ID:
 menu:
 - {name: 'About', url: 'about'}
 - {name: 'Archive', url: 'archive'}
-- {name: 'Contact', url: 'contact'}
+# - {name: 'Contact', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -19,8 +19,8 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'To the present'
+  previous_page: 'To the past'
 
 sharing_button_prompt: 'Feel free to share!'
 
