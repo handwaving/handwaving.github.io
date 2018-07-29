@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Handwaving'
-description:	       'A webcomic about mathematics, science, and the student life.'
+description:	       'A blog about mathematics, science, and the student life.'
 author:              'Jeremy'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
