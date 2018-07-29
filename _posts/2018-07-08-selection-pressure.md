@@ -4,7 +4,6 @@ title: "Selection Pressure"
 author: "Jeremy"
 categories: Mathematics
 tags: [mathematics]
-image: SelectionPressure.png
 permalink: /selection-pressure
 ---
 
