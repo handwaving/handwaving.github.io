@@ -3,6 +3,7 @@ title: "Being Second Atop the Mountain"
 author: "Jeremy"
 tags: [Science, Academia]
 permalink: /second-atop-the-mountain
+date: 2018-08-20
 
 ---
 

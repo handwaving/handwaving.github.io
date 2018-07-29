@@ -3,6 +3,7 @@ title: "Pairing Simple Examples With Complex Machinery"
 author: "Jeremy"
 permalink: /simple-examples-with-complex-machinery
 tags: [Education]
+date: 2018-08-06
 ---
 
 ![More complicated than necessary.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto,w_600/v1532278836/MoreComplicated.png){: .centre-image }
