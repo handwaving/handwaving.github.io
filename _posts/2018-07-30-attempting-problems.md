@@ -1,8 +1,7 @@
 ---
 title: "Attempting Problems"
 author: "Jeremy"
-category: Education, Mathematics, Science
-tags: [Mathematics], [Education], [Science]
+tags: [Mathematics, Education, Science]
 permalink: /attempting-problems
 ---
 

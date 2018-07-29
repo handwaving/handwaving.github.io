@@ -2,7 +2,6 @@
 title: "Where Are Your Weaknesses?"
 author: "Jeremy"
 permalink: /where-are-your-weaknesses
-category: Education
 tags: [Education]
 ---
 

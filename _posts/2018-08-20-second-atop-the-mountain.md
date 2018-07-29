@@ -1,7 +1,7 @@
 ---
 title: "Being Second Atop the Mountain"
 author: "Jeremy"
-category: Science, Academia
+tags: [Science, Academia]
 permalink: /second-atop-the-mountain
 
 ---

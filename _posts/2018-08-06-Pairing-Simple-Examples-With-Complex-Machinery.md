@@ -2,7 +2,6 @@
 title: "Pairing Simple Examples With Complex Machinery"
 author: "Jeremy"
 permalink: /simple-examples-with-complex-machinery
-category: Education
 tags: [Education]
 ---
 
