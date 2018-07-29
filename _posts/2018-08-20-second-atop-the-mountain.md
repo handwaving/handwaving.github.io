@@ -3,7 +3,7 @@ title: "Being Second Atop the Mountain"
 author: "Jeremy"
 category: Science, Academia
 permalink: /second-atop-the-mountain
-date: 2018-08-20
+
 ---
 
 Doing research isn't an easy thing to do. There's a reason that not everyone is an academic. Trying to bang one's head up against the wall of science isn't most people's idea of a fun time.
