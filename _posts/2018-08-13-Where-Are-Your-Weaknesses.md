@@ -6,7 +6,7 @@ tags: [Education]
 date: 2018-08-13
 ---
 
-![Not too happy about factoring.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto,w_600/v1532280356/Haunted.png){: .centre-image }
+![Not too happy about factoring.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1534080159/Haunted.png){: .centre-image }
 
 During one of my calculus classes in university, we were running behind in terms of class content. Within the last few days of class, the professor announced that the topic of Taylor and McLaurin series and expansions weren't going to be part of the final exam, but he would hold an optional "extra" class for those who were interested.
 
