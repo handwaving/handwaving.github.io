@@ -12,7 +12,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link: 'https://twitter.com/HandwavingBlog'}
+- {icon: 'twitter', link: 'https://twitter.com/HandwavingComic'}
 - {icon: 'envelope', link: 'mailto:handwavingblog@gmail.com'}
 - {icon: 'rss-square', link: '/feed'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
