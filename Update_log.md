@@ -2,3 +2,4 @@
 - August 20, 2018
 - August 22, 2018
 - August 24, 2018
+- August 27, 2018
