@@ -2,7 +2,7 @@
 title: Necessary Details
 author: Jeremy
 tags: [Science, outreach]
-permalink: /necessary-details
+permalink: /13
 date: 2018-09-10
 ---
 

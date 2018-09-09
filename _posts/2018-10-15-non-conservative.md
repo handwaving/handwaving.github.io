@@ -2,7 +2,7 @@
 title: Non-Conservative
 author: Jeremy
 tags: [science, mathematics, education]
-permalink: /non-conservative
+permalink: /28
 date: 2018-10-15
 ---
 

@@ -2,7 +2,7 @@
 title: "Small Alphabet"
 author: "Jeremy"
 tags: [mathematics]
-permalink: /small-alphabet
+permalink: /5
 date: 2018-08-22
 ---
 

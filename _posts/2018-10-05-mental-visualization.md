@@ -2,7 +2,7 @@
 title: Mental Visualization
 author: Jeremy
 tags: [science, mathematics, education]
-permalink: /mental-visualization
+permalink: /24
 date: 2018-10-05
 ---
 

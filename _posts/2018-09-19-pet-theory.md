@@ -2,7 +2,7 @@
 title: Pet Theory
 author: Jeremy
 tags: [science]
-permalink: /pet-theory
+permalink: /17
 date: 2018-09-19
 ---
 

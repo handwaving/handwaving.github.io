@@ -2,7 +2,7 @@
 title: Caught Between Worlds
 author: Jeremy
 tags: [mathematics, science, academia]
-permalink: /caught-between-worlds
+permalink: /15
 date: 2018-09-14
 ---
 

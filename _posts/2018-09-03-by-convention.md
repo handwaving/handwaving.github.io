@@ -2,7 +2,7 @@
 title: By Convention
 author: Jeremy
 tags: [Science, mathematics]
-permalink: /by-convention
+permalink: /10
 date: 2018-09-03
 ---
 

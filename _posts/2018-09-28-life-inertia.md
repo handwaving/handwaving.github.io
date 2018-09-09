@@ -2,7 +2,7 @@
 title: Life Inertia
 author: Jeremy
 tags: [life]
-permalink: /life-inertia
+permalink: /21
 date: 2018-09-28
 ---
 

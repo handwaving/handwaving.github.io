@@ -4,7 +4,7 @@ title: "Selection Pressure"
 author: "Jeremy"
 categories: Mathematics
 tags: [mathematics]
-permalink: /selection-pressure
+permalink: /9
 date: 2018-08-31
 ---
 

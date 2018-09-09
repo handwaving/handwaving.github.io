@@ -2,7 +2,7 @@
 title: Exercise to the Reader
 author: Jeremy
 tags: [mathematics, academia]
-permalink: /exercise-to-the-reader
+permalink: /14
 date: 2018-09-12
 ---
 

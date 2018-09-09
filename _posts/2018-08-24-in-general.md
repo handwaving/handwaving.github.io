@@ -2,7 +2,7 @@
 title: In General
 author: Jeremy
 tags: [Mathematics]
-permalink: /in-general
+permalink: /6
 date: 2018-08-24
 ---
 

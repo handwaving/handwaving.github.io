@@ -2,7 +2,7 @@
 title: Computation
 author: Jeremy
 tags: [computer science, mathematics]
-permalink: /computation
+permalink: /23
 date: 2018-10-03
 ---
 

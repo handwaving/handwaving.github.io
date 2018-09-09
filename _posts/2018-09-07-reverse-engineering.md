@@ -2,7 +2,7 @@
 title: Reverse Engineering
 author: Jeremy
 tags: [mathematics]
-permalink: /reverse-engineering
+permalink: /12
 date: 2018-09-07
 ---
 

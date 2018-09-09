@@ -2,7 +2,7 @@
 title: Mathematical Illusion
 author: Jeremy
 tags: [mathematics]
-permalink: /mathematical-illusion
+permalink: /11
 date: 2018-09-05
 ---
 

@@ -2,7 +2,7 @@
 title: Final Version
 author: Jeremy
 tags: [Science]
-permalink: /final-version
+permalink: /8
 date: 2018-08-29
 ---
 

@@ -2,7 +2,7 @@
 title: Memory Aid
 author: Jeremy
 tags: [education, mathematics]
-permalink: /memory-aid
+permalink: /22
 date: 2018-10-01
 ---
 

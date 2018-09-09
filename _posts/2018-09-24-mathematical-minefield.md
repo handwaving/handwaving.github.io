@@ -2,7 +2,7 @@
 title: Mathematical Minefield
 author: Jeremy
 tags: [Mathematics, education]
-permalink: /mathematical-minefield
+permalink: /19
 date: 2018-09-24
 ---
 

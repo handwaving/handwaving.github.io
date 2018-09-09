@@ -1,7 +1,7 @@
----
+﻿---
 title: "Where Are Your Weaknesses?"
 author: "Jeremy"
-permalink: /where-are-your-weaknesses
+permalink: /3
 tags: [Education]
 date: 2018-08-13
 ---

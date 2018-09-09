@@ -1,8 +1,8 @@
----
+﻿---
 title: "Back of the Book"
 author: "Jeremy"
 tags: [Mathematics, Education, Science]
-permalink: /back-of-the-book
+permalink: /1
 date: 2018-07-30
 ---
 

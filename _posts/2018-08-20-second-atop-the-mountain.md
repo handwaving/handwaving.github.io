@@ -1,8 +1,8 @@
----
+﻿---
 title: "Second Atop the Mountain"
 author: "Jeremy"
 tags: [Science, Academia]
-permalink: /second-atop-the-mountain
+permalink: /4
 date: 2018-08-20
 
 ---

@@ -2,7 +2,7 @@
 title: Forgetful
 author: Jeremy
 tags: [science, education]
-permalink: /forgetful
+permalink: /29
 date: 2018-10-17
 ---
 

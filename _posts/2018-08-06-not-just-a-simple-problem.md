@@ -1,7 +1,7 @@
----
+﻿---
 title: "Not Just a Simple Problem"
 author: "Jeremy"
-permalink: /not-just-a-simple-problem
+permalink: /2
 tags: [Education]
 date: 2018-08-06
 ---

@@ -2,7 +2,7 @@
 title: Cosmic Semester Coupling
 author: Jeremy
 tags: [science, education]
-permalink: /cosmic-semester-coupling
+permalink: /18
 date: 2018-09-21
 ---
 
