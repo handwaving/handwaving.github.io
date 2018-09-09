@@ -1,0 +1,11 @@
+---
+title: Non-Conservative
+author: Jeremy
+tags: [science, mathematics, education]
+permalink: /non-conservative
+date: 2018-10-15
+---
+
+![Graph of the status in your class versus how much of the course is done. The integral isn't zero around the loop.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_615/v1535842816/Non-ConservativeForce.png){: .centre-image }
+
+We reward those who do good throughout the whole semester versus those who peak at the end, even though the end result is the same.
