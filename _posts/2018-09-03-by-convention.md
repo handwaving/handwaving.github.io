@@ -6,7 +6,7 @@ permalink: /10
 date: 2018-09-03
 ---
 
-![I take no responsibility for the accuracy of this comic.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1533412856/ByConvention.png){: .centre-image }
+![I take no responsibility for the accuracy of this comic.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_600/v1533412856/Handwaving/Published/ByConvention.png){: .centre-image }
 
 "Why do we use these weird units?"
 
