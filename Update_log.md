@@ -9,3 +9,4 @@
 - September 5, 2018
 - September 7, 2018
 - September 10, 2018
+- September 12, 2018
