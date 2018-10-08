@@ -20,3 +20,4 @@
 - October 1, 2018
 - October 3, 2018
 - October 5, 2018
+- October 8, 2018
