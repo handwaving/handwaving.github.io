@@ -1,5 +1,5 @@
 ---
-title: Imagine
+title: Procedure
 author: Jeremy
 tags: [science, mathematics, education]
 permalink: /34
