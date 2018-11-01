@@ -24,9 +24,9 @@ permalink: /feed
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 			</item>
 		{% endfor %}
-		<webfeeds:cover image="/LogoSVG.svg" />
-    		<webfeeds:icon>Icon.png</webfeeds:icon>
-    		<webfeeds:logo>/LogoSVG.svg</webfeeds:logo>
+		<webfeeds:cover image="/handwaving/LogoSVG.svg" />
+    		<webfeeds:icon>/handwaving/Icon.png</webfeeds:icon>
+    		<webfeeds:logo>/handwaving/LogoSVG.svg</webfeeds:logo>
     		<webfeeds:related layout="card" target="browser"/>
 	</channel>
 </rss>
