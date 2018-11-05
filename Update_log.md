@@ -32,4 +32,4 @@
 - October 29, 2018
 - October 31, 2018
 - November 2, 2018
-
+- November 5, 2018
