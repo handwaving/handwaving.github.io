@@ -10,4 +10,4 @@ date: 2018-11-09
 
 "When no one can answer your questions, you're getting close!"
 
-(*Originally part of my post on ErrantScience Clutter.*)
+(*Originally part of my post on [ErrantScience Clutter](https://clutter.errantscience.com/2018/09/24/taming-the-literature/).*)
