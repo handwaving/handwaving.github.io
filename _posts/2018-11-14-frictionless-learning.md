@@ -1,5 +1,5 @@
 ---
-title: Frictionaless Learning
+title: Frictionless Learning
 author: Jeremy
 tags: [science, mathematics, education]
 permalink: /41
