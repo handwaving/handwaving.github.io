@@ -48,4 +48,5 @@
 - December 5, 2018
 - December 7, 2018
 - December 10, 2018
+- December 12, 2018
 
