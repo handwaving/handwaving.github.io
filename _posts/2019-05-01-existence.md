@@ -1,0 +1,11 @@
+---
+title: Existence
+author: Jeremy
+tags: [mathematics, proofs]
+permalink: /113
+date: 2019-05-01
+---
+
+![In the first panel, a mathematician shows their friend what they think is a treasure map. The friend confirms that it is a map, and wants to go find it. The mathematician just shakes their head and says they are satisfied with knowing it exists.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_615/v1535842782/Handwaving/Published/Existence.png){: .centre-image }
+
+"I bet you're one of those people who enjoy being the "team player" instead of getting to be the star, huh?"
