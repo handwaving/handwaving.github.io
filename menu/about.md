@@ -30,7 +30,7 @@ Okay, you want a bit more. My name is Jeremy. Is that enough?
 **Miscellaneous Notes:**
   - This comic is made by hand (e.g. drawn with a finger as a stylus) on a very old tablet using the app [Tayasui Sketches Pro](http://tayasui.com/sketches/). This probably isn't the best tool to use, but it's what works for me.
   - The comic is made in mostly black and white in order to facilitate easy printing.
-  - The best way to get these comics delivered is through the [RSS feed]({site.url}/feed).
+  - The best way to get these comics delivered is through the [RSS feed]({{ site.github.url }}/feed).
   - Handwaving will never have advertisements, because that's not what the site is for. See **Purpose** above.
   - Related to the above point, Handwaving does not have a presence on social media. This is not because the author of Handwaving does not know how to use social media, but because they believe there are better ways to use one's time. This is why the RSS feed is the best way to stay up to date with the comic. RSS is an open-source technology that *you* curate, not some algorithm that a company comes up with to monetize your eyeballs.
 
