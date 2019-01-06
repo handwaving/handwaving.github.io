@@ -14,10 +14,10 @@ Okay, you want a bit more. My name is Jeremy. Is that enough?
 
 **Schedule:** Every Monday, Wednesday, and Friday, around 06:00. Make-up times can be arranged if there are extraordinary circumstances.
 
-**Prerequisites:** Knowledge of [xkcd](xkcd.com), [ErrantScience](errantscience.com), and [Math With Bad Drawings](mathwithbaddrawings.com) is assumed. Experience with physics and mathematics is helpful, but not always necessary. Can be taken concurrently with the above comics.
+**Prerequisites:** Knowledge of [xkcd](https://www.xkcd.com), [ErrantScience](https://www.errantscience.com), and [Math With Bad Drawings](https://www.mathwithbaddrawings.com) is assumed. Experience with physics and mathematics is helpful, but not always necessary. Can be taken concurrently with the above comics.
 
 **Suggested Readings:**
-  - For philosophical fulfillment: [Existential Comics](existentialcomics.com).
+  - For philosophical fulfillment: [Existential Comics](https://www.existentialcomics.com).
   - For environmental science: [Green Humour](http://www.greenhumour.com).
   - For academia: [PHD Comics](http://phdcomics.com), [Lego Grad Student](https://legogradstudent.tumblr.com), and [Red Pen/Black Pen](https://redpenblackpen.tumblr.com).
   - For biology, chemistry, and anatomical science: [Beatrice the Biologist](http://www.beatricebiologist.com), [The Awkward Yeti](http://theawkwardyeti.com), [The Upturned Microscope](https://theupturnedmicroscope.com), and [Bird and Moon](http://www.birdandmoon.com).
