@@ -25,6 +25,7 @@ Okay, you want a bit more. My name is Jeremy. Is that enough?
  [Strange Quark](https://sqcomic.com), [Rational Expressions](https://blueshirtkhakipants.com), [Abstruse Goose](abstrusegoose.com), and [Spiked Math](http://spikedmath.com).
   - For charts of various kinds: [Indexed](http://thisisindexed.com).
   - For historical whimsy: [Tabula Candida](https://tabulacandida.wordpress.com).
+  - For word play: [Dinosaur Comics](https://qwantz.com/).
 
 
 **Miscellaneous Notes:**
