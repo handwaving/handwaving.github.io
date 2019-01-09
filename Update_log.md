@@ -60,3 +60,4 @@
 - January 2, 2019
 - January 4, 2019
 - January 7, 2019
+- January 9, 2019
