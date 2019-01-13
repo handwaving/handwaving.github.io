@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 - August 13, 2018
 - August 20, 2018
 - August 22, 2018
