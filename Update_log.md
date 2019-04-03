@@ -100,4 +100,5 @@ published: false
 - March 27, 2019
 - March 29, 2019
 - April 1, 2019
+- April 3, 2019
 
