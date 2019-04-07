@@ -2,7 +2,7 @@
 title: Putting In Numbers
 author: Jeremy
 tags: [homework, physics, mathematics]
-permalink: /139
+permalink: /140
 date: 2019-07-01
 ---
 
