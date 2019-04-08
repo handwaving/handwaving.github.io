@@ -26,6 +26,7 @@ Okay, you want a bit more. My name is Jeremy. Is that enough?
   - For charts of various kinds: [Indexed](http://thisisindexed.com).
   - For historical whimsy: [Tabula Candida](https://tabulacandida.wordpress.com).
   - For word play: [Dinosaur Comics](https://qwantz.com/).
+  - For art and creativity: [Incidental Comics](http://www.incidentalcomics.com/).
 
 
 **Miscellaneous Notes:**
