@@ -1,5 +1,5 @@
 ---
-title: Nuggets
+title: Searching
 author: Jeremy
 tags: [tests, exams, education, mathematics, science]
 permalink: /107
