@@ -130,4 +130,5 @@ published: false
 - June 5, 2019
 - June 7, 2019
 - June 10, 2019
+- June 12, 2019
 
