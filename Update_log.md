@@ -179,4 +179,5 @@ published: false
 - September 27, 2019
 - September 30, 2019
 - October 2, 2019
+- October 4, 2019
 
