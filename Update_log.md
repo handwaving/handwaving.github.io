@@ -193,4 +193,5 @@ published: false
 - October 30, 2019
 - November 1, 2019
 - November 4, 2019
+- November 6, 2019
 
