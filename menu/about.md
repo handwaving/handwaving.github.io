@@ -21,8 +21,7 @@ Okay, you want a bit more. My name is Jeremy. Is that enough?
   - For environmental science: [Green Humour](http://www.greenhumour.com).
   - For academia: [PHD Comics](http://phdcomics.com), [Lego Grad Student](https://legogradstudent.tumblr.com), and [Red Pen/Black Pen](https://redpenblackpen.tumblr.com).
   - For biology, chemistry, and anatomical science: [Beatrice the Biologist](http://www.beatricebiologist.com), [The Awkward Yeti](http://theawkwardyeti.com), [The Upturned Microscope](https://theupturnedmicroscope.com), and [Bird and Moon](http://www.birdandmoon.com).
-  - For physics and mathematics: [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com) (though this isn't doing SMBC fair service), 
- [Strange Quark](https://sqcomic.com), [Rational Expressions](https://blueshirtkhakipants.com), [Abstruse Goose](https://abstrusegoose.com), and [Spiked Math](http://spikedmath.com).
+  - For physics and mathematics: [Saturday Morning Breakfast Cereal](https://www.smbc-comics.com) (though this isn't doing SMBC fair service), [Rational Expressions](https://blueshirtkhakipants.com), [Abstruse Goose](https://abstrusegoose.com), and [Spiked Math](http://spikedmath.com).
   - For charts of various kinds: [Indexed](http://thisisindexed.com).
   - For historical whimsy: [Tabula Candida](https://tabulacandida.wordpress.com).
   - For word play: [Dinosaur Comics](https://qwantz.com/).
