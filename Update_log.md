@@ -205,4 +205,5 @@ published: false
 - November 27, 2019
 - November 29, 2019
 - December 2, 2019
+- December 4, 2019
 
