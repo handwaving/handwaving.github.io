@@ -217,4 +217,5 @@ published: false
 - December 25, 2019
 - December 27, 2019
 - December 30, 2019
+- January 1, 2020
 
