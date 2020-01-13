@@ -2,8 +2,8 @@
 title: Marketing
 author: Jeremy
 tags: [research, grants]
-permalink: /297
-date: 2020-06-29
+permalink: /223
+date: 2020-01-13
 ---
 
 ![A grant application. Under the headline "The Big Picture", points include: changing the world, making our country look good, and leading to lucrative technology. Only at the bottom in parentheses it says "Will improve our fundamental understanding." Even researchers have to be marketers.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_615/v1535842782/Handwaving/Published/Marketing.png){: .centre-image }
