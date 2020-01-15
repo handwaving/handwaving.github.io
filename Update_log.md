@@ -223,4 +223,5 @@ published: false
 - January 8, 2020
 - January 10, 2020
 - January 13, 2020
+- January 15, 2020
 
