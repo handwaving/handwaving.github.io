@@ -2,6 +2,7 @@
 title: Temporary Amnesia
 author: Jeremy
 tags: [proofs, mathematics, education]
+imagelink: TemporaryAmnesia
 permalink: /229
 date: 2020-01-27
 ---
