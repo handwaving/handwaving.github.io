@@ -2,6 +2,7 @@
 title: Usual Approximations
 author: Jeremy
 tags: [tests, education, mathematics, physics]
+imagelink: UsualApproximations
 permalink: /231
 date: 2020-01-31
 ---
