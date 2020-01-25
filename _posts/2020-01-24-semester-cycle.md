@@ -2,6 +2,7 @@
 title: Semester Cycle
 author: Jeremy
 tags: [education, semester, tests, exams. knowledge]
+imagelink: SemesterCycle
 permalink: /228
 date: 2020-01-24
 ---
