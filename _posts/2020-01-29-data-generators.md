@@ -2,6 +2,7 @@
 title: Data Generators
 author: Jeremy
 tags: [research, science, experiments, data]
+imagelink: DataGenerators
 permalink: /230
 date: 2020-01-29
 ---
