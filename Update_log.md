@@ -230,3 +230,4 @@ published: false
 - January 24, 2020
 - January 27, 2020
 - January 29, 2020
+- January 31, 2020
