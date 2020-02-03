@@ -2,6 +2,7 @@
 title: Reasonable Assumptions
 author: Jeremy
 tags: [research, mathematics, science, approximations]
+imagelink: ReasonableAssumptions
 permalink: /234
 date: 2020-02-07
 ---
