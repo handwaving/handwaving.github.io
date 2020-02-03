@@ -2,6 +2,7 @@
 title: Question Period
 author: Jeremy
 tags: [education, mathematics, science, teaching]
+imagelink: QuestionPeriod
 permalink: /232
 date: 2020-02-03
 ---
