@@ -2,6 +2,7 @@
 title: Typographical Miss
 author: Jeremy
 tags: [homework, mathematics, textbooks]
+imagelink: TypographicalMiss
 permalink: /233
 date: 2020-02-05
 ---
