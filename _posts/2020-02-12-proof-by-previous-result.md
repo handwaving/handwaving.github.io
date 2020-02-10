@@ -2,6 +2,7 @@
 title: Proof By Previous Result
 author: Jeremy
 tags: [proofs, mathematics, homework]
+imagelink: ProofByPreviousResult
 permalink: /236
 date: 2020-02-12
 ---
