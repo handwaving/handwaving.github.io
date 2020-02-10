@@ -2,6 +2,7 @@
 title: Exhaustion
 author: Jeremy
 tags: [teaching, mathematics]
+imagelink: Exhaustion
 permalink: /237
 date: 2020-02-14
 ---
