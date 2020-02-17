@@ -2,6 +2,7 @@
 title: More Questions Than Answers
 author: Jeremy
 tags: [physics, education, questions]
+imagelink: MoreQuestionsThanAnswers
 permalink: /272
 date: 2020-04-29
 ---

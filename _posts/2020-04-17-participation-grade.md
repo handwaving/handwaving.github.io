@@ -2,6 +2,7 @@
 title: Participation Grade
 author: Jeremy
 tags: [education]
+imagelink: ParticipationGrade
 permalink: /267
 date: 2020-04-17
 ---

@@ -2,6 +2,7 @@
 title: Scientific Perspective
 author: Jeremy
 tags: [science, research]
+imagelink: ScientificPerspective
 permalink: /274
 date: 2020-05-04
 ---

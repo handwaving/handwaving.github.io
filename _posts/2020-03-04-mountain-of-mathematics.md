@@ -2,6 +2,7 @@
 title: Mountain of Mathematics
 author: Jeremy
 tags: [mathematics, education, learning]
+imagelink: MountainOfMathematics
 permalink: /245
 date: 2020-03-04
 ---

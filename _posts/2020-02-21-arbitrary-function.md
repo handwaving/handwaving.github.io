@@ -2,6 +2,7 @@
 title: Arbitrary Function
 author: Jeremy
 tags: [education, mathematics, teaching]
+imagelink: ArbitraryFunction
 permalink: /240
 date: 2020-02-21
 ---

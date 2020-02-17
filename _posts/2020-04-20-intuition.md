@@ -2,6 +2,7 @@
 title: Intuition
 author: Jeremy
 tags: [physics, education, intuition]
+imagelink: Intuition
 permalink: /268
 date: 2020-04-20
 ---

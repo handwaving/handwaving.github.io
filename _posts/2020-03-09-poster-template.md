@@ -2,6 +2,7 @@
 title: Poster Template
 author: Jeremy
 tags: [academia, research, posters, presentations]
+imagelink: PosterTemplate
 permalink: /247
 date: 2020-03-09
 ---

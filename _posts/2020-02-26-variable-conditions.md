@@ -2,6 +2,7 @@
 title: Variable Conditions
 author: Jeremy
 tags: [education, tests, learning]
+imagelink: VariableConditions
 permalink: /242
 date: 2020-02-26
 ---

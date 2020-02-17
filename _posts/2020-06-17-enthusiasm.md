@@ -2,6 +2,7 @@
 title: Enthusiasm
 author: Jeremy
 tags: [education, teaching, chalk]
+imagelink: Enthusiasm
 permalink: /292
 date: 2020-06-17
 ---

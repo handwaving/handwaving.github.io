@@ -2,6 +2,7 @@
 title: Entangled
 author: Jeremy
 tags: [learning, education, mathematics, science]
+imagelink: Entangled
 permalink: /248
 date: 2020-03-11
 ---

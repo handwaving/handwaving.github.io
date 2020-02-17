@@ -2,6 +2,7 @@
 title: Multidisciplinary
 author: Jeremy
 tags: [research, academia, journals, mathematics, science, interdisciplinary]
+imagelink: Multidisciplinary
 permalink: /250
 date: 2020-03-16
 ---

@@ -2,6 +2,7 @@
 title: Research Bubble
 author: Jeremy
 tags: [research, science, mathematics, academia]
+imagelink: ResearchBubble
 permalink: /241
 date: 2020-02-24
 ---

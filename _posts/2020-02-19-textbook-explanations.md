@@ -2,6 +2,7 @@
 title: Textbook Explanations
 author: Jeremy
 tags: [textbooks, writing, explanations, mathematics, science, education]
+imagelink: TextbookExplanations
 permalink: /239
 date: 2020-02-19
 ---

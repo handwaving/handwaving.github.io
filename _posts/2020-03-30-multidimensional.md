@@ -2,6 +2,7 @@
 title: Multidimensional
 author: Jeremy
 tags: [life, people]
+imagelink: Multidimensional
 permalink: /256
 date: 2020-03-30
 ---

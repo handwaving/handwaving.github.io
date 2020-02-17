@@ -2,6 +2,7 @@
 title: Definition
 author: Jeremy
 tags: [physicists, problems]
+imagelink: Definition
 permalink: /294
 date: 2020-06-22
 ---

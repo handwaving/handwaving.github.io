@@ -2,6 +2,7 @@
 title: Historical Conventions
 author: Jeremy
 tags: [education, history, teaching, science]
+imagelink: HistoricalConventions
 permalink: /262
 date: 2020-04-13
 ---

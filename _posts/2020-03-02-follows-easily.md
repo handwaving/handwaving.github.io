@@ -2,6 +2,7 @@
 title: Follows Easily
 author: Jeremy
 tags: [textbooks, science, mathematics, education]
+imagelink: FollowsEasily
 permalink: /244
 date: 2020-03-02
 ---

@@ -2,6 +2,7 @@
 title: Tunable Theories
 author: Jeremy
 tags: [science, research, theories]
+imagelink: TunableTheories
 permalink: /254
 date: 2020-03-25
 ---

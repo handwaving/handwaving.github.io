@@ -2,6 +2,7 @@
 title: Typesetting
 author: Jeremy
 tags: [research, academia, papers, writing]
+imagelink: Typesetting
 permalink: /275
 date: 2020-05-06
 ---

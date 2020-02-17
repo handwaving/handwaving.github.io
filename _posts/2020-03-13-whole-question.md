@@ -2,6 +2,7 @@
 title: Whole Question
 author: Jeremy
 tags: [tests, exams, education, mathematics, physics]
+imagelink: WholeQuestion
 permalink: /249
 date: 2020-03-13
 ---

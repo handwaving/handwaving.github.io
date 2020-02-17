@@ -2,6 +2,7 @@
 title: Sentience
 author: Jeremy
 tags: [physics, education, teaching]
+imagelink: Sentience
 permalink: /243
 date: 2020-02-28
 ---

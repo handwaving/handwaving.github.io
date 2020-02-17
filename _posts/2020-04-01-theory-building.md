@@ -2,6 +2,7 @@
 title: Theory Building
 author: Jeremy
 tags: [physics, science, theory, data]
+imagelink: TheoryBuilding
 permalink: /257
 date: 2020-04-01
 ---

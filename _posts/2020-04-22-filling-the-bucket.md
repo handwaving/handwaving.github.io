@@ -2,6 +2,7 @@
 title: Filling The Bucket
 author: Jeremy
 tags: [graduate school, education, undergraduate studies]
+imagelink: FillingTheBucket
 permalink: /269
 date: 2020-04-22
 ---

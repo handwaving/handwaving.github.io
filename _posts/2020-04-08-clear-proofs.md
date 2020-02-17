@@ -2,6 +2,7 @@
 title: Clear Proofs
 author: Jeremy
 tags: [homework, proofs, assignments, studying]
+imagelink: ClearProofs
 permalink: /260
 date: 2020-04-08
 ---

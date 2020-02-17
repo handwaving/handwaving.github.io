@@ -2,6 +2,7 @@
 title: Contribution
 author: Jeremy
 tags: [science, research, academia]
+imagelink: Contribution
 permalink: /255
 date: 2020-03-27
 ---

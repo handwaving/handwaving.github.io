@@ -2,6 +2,7 @@
 title: Navigation
 author: Jeremy
 tags: [research, science, academia, supervisors]
+imagelink: Navigation
 permalink: /281
 date: 2020-05-20
 ---

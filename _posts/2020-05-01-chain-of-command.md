@@ -2,6 +2,7 @@
 title: Chain of Command
 author: Jeremy
 tags: [research, academia, projects]
+imagelink: ChainOfCommand
 permalink: /273
 date: 2020-05-01
 ---

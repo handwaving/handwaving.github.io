@@ -2,6 +2,7 @@
 title: Existential Risk
 author: Jeremy
 tags: [risk, technology, perspective]
+imagelink: ExistentialRisk
 permalink: /286
 date: 2020-06-03
 ---

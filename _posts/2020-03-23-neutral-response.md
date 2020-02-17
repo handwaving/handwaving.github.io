@@ -2,6 +2,7 @@
 title: Neutral Response
 author: Jeremy
 tags: [science, research, academia, presentations]
+imagelink: NeutralResponse
 permalink: /253
 date: 2020-03-23
 ---

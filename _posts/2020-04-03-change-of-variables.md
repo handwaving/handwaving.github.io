@@ -2,6 +2,7 @@
 title: Change of Variables
 author: Jeremy
 tags: [physics, education, mathematics, homework, notation]
+imagelink: ChangeOfVariables
 permalink: /258
 date: 2020-04-03
 ---

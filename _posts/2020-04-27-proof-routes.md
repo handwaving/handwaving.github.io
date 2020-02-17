@@ -2,6 +2,7 @@
 title: Proof Routes
 author: Jeremy
 tags: [proofs, mathematics]
+imagelink: ProofRoutes
 permalink: /271
 date: 2020-04-27
 ---

@@ -2,6 +2,7 @@
 title: Supervisor Choice
 author: Jeremy
 tags: [academia, supervisors, graduate studies]
+imagelink: SupervisorChoice
 permalink: /238
 date: 2020-02-17
 ---

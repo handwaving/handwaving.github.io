@@ -2,6 +2,7 @@
 title: Strategic Email
 author: Jeremy
 tags: [email, academia]
+imagelink: StrategicEmail
 permalink: /293
 date: 2020-06-19
 ---

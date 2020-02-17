@@ -2,6 +2,7 @@
 title: Academic Ghost Story
 author: Jeremy
 tags: [academia, research, notation]
+imagelink: AcademicGhostStory
 permalink: /285
 date: 2020-05-29
 ---

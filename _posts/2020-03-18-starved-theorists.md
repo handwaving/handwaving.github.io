@@ -2,6 +2,7 @@
 title: Starved Theorists
 author: Jeremy
 tags: [physics, theory, experiment, data, academia, research]
+imagelink: StarvedTheorists
 permalink: /251
 date: 2020-03-18
 ---
