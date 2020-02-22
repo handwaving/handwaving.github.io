@@ -6,7 +6,7 @@ permalink: /23
 date: 2018-10-03
 ---
 
-![We have the answer, we just might have to invent cryosleep too.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best,w_615/v1535842814/Handwaving/Published/Impractical.png){: .centre-image }
+![We have the answer, we just might have to invent cryosleep too.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best/v1535842814/Handwaving/Published/Impractical.png){: .centre-image }
 
 "How are you going to run that computer without it losing power?"
 
