@@ -257,4 +257,5 @@ published: false
 - March 27, 2020
 - March 30, 2020
 - April 1, 2020
+- April 3, 2020
 
