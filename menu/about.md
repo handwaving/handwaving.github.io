@@ -4,6 +4,8 @@ layout: page
 permalink: /about
 ---
 
+![]({{ site.baseurl }}/assets/img/BackupCareer.png){: .centre-image}
+
 **Creator:** A person who can't choose between art and science, and found that, through this comic, they didn't have to.
 
 Okay, you want a bit more. My name is Jeremy. Is that enough?
