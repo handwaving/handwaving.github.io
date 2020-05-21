@@ -2,9 +2,9 @@
 title: Orphans
 author: Jeremy
 tags:
-- science
 - research
-- contributions
+- academia
+- grants
 imagelink: Orphans
 permalink: "/308"
 date: 2020-07-24 00:00:00 -0400
