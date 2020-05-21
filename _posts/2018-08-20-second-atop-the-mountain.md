@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Second Atop the Mountain"
 author: "Jeremy"
 tags: [Science, Academia]
