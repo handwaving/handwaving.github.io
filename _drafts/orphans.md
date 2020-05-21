@@ -1,12 +1,12 @@
 ---
-title: Orphans
+title: Weeding
 author: Jeremy
 tags:
 - science
 - research
 - contributions
 imagelink: Orphans
-permalink: "/308"
+permalink: "/309"
 date: 2020-07-24 00:00:00 -0400
 
 ---
