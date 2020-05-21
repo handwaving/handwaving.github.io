@@ -1,0 +1,15 @@
+---
+title: Orphans
+author: Jeremy
+tags:
+- science
+- research
+- contributions
+imagelink: Orphans
+permalink: "/308"
+date: 2020-07-24 00:00:00 -0400
+
+---
+![Making sure to use every single bit of whitespace.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best/v1535842782/Handwaving/Published/Orphans.png){: .centre-image }
+
+Once you've minimized the margins and font size, this is the next step towards maximizing the black-to-white ratio on the document!
