@@ -290,3 +290,4 @@ published: false
 - June 15, 2020
 - June 17, 2020
 - June 19, 2020
+- June 22, 2020
