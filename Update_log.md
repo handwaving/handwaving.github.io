@@ -294,4 +294,5 @@ published: false
 - June 24, 2020
 - June 26, 2020
 - June 29, 2020
+- July 1, 2020
 
