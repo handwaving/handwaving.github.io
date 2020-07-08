@@ -297,4 +297,5 @@ published: false
 - July 1, 2020
 - July 3, 2020
 - July 6, 2020
+- July 8, 2020
 
