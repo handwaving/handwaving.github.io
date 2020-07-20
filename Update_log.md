@@ -302,4 +302,5 @@ published: false
 - July 13, 2020
 - July 15, 2020
 - July 17, 2020
+- July 20, 2020
 
