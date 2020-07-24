@@ -16,7 +16,6 @@ social:
 #- {icon: 'instagram', link: 'https://instagram.com/handwavingcomic'}
 - {icon: 'envelope', link: 'mailto:handwavingblog@gmail.com'}
 - {icon: 'rss-square', link: '/feed'}
-# - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
 pagination:
