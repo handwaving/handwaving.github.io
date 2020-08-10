@@ -311,3 +311,4 @@ published: false
 - August 3, 2020
 - August 5, 2020
 - August 7, 2020
+- August 10, 2020
