@@ -3,7 +3,7 @@ title: Presentation Timeline
 author: Jeremy
 tags: [presentation, academia, research]
 imagelink: PresentationTimeline
-permalink: /311
+permalink: /312
 date: 2020-07-31
 ---
 

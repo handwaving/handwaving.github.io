@@ -3,7 +3,7 @@ title: Ladder of Abstraction
 author: Jeremy
 tags: [mathematics, physics, abstraction, learning]
 imagelink: LadderOfAbstraction
-permalink: /326
+permalink: /327
 date: 2020-09-04
 ---
 

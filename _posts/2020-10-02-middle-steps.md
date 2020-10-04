@@ -3,7 +3,7 @@ title: Middle Steps
 author: Jeremy
 tags: [teaching, education, mathematics, physics]
 imagelink: MiddleSteps
-permalink: /338
+permalink: /339
 date: 2020-10-02
 ---
 

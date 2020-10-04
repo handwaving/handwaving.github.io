@@ -3,7 +3,7 @@ title: Gravity Well
 author: Jeremy
 tags: [work, friends, life]
 imagelink: GravityWell
-permalink: /299
+permalink: /300
 date: 2020-07-03
 ---
 

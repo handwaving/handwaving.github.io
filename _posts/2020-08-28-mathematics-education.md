@@ -3,7 +3,7 @@ title: Mathematics Education
 author: Jeremy
 tags: [mathematics, education, learning]
 imagelink: MathematicsEducation
-permalink: /323
+permalink: /324
 date: 2020-08-28
 ---
 

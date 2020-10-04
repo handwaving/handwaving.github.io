@@ -3,7 +3,7 @@ title: Playback Speed
 author: Jeremy
 tags: [lectures, education, online, learning]
 imagelink: PlaybackSpeed
-permalink: /341
+permalink: /342
 date: 2020-10-09
 ---
 

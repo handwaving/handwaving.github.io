@@ -3,7 +3,7 @@ title: New Notation
 author: Jeremy
 tags: [education, mathematics, physics]
 imagelink: NewNotation
-permalink: /301
+permalink: /302
 date: 2020-07-08
 ---
 

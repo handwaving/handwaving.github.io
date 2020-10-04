@@ -3,7 +3,7 @@ title: Definition
 author: Jeremy
 tags: [physicists, problems]
 imagelink: Definition
-permalink: /294
+permalink: /295
 date: 2020-06-22
 ---
 

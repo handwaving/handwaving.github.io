@@ -3,7 +3,7 @@ title: Jarring Count
 author: Jeremy
 tags: [knowledge]
 imagelink: JarringCount
-permalink: /298
+permalink: /299
 date: 2020-07-01
 ---
 

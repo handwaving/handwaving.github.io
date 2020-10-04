@@ -3,7 +3,7 @@ title: Standards
 author: Jeremy
 tags: [science, research, contributions]
 imagelink: Standards
-permalink: /307
+permalink: /308
 date: 2020-07-22
 ---
 

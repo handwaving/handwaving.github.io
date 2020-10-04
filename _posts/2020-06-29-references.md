@@ -3,7 +3,7 @@ title: References
 author: Jeremy
 tags: [research, academia, papers]
 imagelink: References
-permalink: /297
+permalink: /298
 date: 2020-06-29
 ---
 

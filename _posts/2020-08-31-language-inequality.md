@@ -3,7 +3,7 @@ title: Language Inequality
 author: Jeremy
 tags: [research, academia, papers, reading]
 imagelink: LanguageInequality
-permalink: /324
+permalink: /325
 date: 2020-08-31
 ---
 

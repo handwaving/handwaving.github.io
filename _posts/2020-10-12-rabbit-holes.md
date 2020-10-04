@@ -3,7 +3,7 @@ title: Rabbit Holes
 author: Jeremy
 tags: [online, web, learning]
 imagelink: RabbitHoles
-permalink: /342
+permalink: /343
 date: 2020-10-12
 ---
 

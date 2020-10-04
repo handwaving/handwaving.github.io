@@ -3,7 +3,7 @@ title: Fundamental Law of Reading Dynamics
 author: Jeremy
 tags: [reading]
 imagelink: FundamentalLawofReadingDynamics
-permalink: /325
+permalink: /326
 date: 2020-09-02
 ---
 

@@ -3,7 +3,7 @@ title: Fast Start
 author: Jeremy
 tags: [presentations, research]
 imagelink: FastStart
-permalink: /335
+permalink: /336
 date: 2020-09-25
 ---
 

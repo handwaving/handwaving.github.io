@@ -3,7 +3,7 @@ title: Quality Calculations
 author: Jeremy
 tags: [teaching, learning, education, mathematics, physics]
 imagelink: QualityCalculations
-permalink: /343
+permalink: /344
 date: 2020-10-14
 ---
 

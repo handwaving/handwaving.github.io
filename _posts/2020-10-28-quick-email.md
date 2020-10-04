@@ -3,7 +3,7 @@ title: Quick Email
 author: Jeremy
 tags: [academia, professors, email, research]
 imagelink: QuickEmail
-permalink: /349
+permalink: /350
 date: 2020-10-28
 ---
 

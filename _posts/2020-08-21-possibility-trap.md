@@ -3,7 +3,7 @@ title: Possibility Trap
 author: Jeremy
 tags: [science, probability, possibility, theories]
 imagelink: PossibilityTrap
-permalink: /320
+permalink: /321
 date: 2020-08-21
 ---
 

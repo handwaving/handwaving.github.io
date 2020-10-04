@@ -3,7 +3,7 @@ title: Toy Model Regression
 author: Jeremy
 tags: [physics, toy models, research, simplification, models]
 imagelink: ToyModelRegression
-permalink: /359
+permalink: /360
 date: 2020-11-20
 ---
 

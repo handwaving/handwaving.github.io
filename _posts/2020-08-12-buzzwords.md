@@ -3,7 +3,7 @@ title: Buzzwords
 author: Jeremy
 tags: [research]
 imagelink: Buzzwords
-permalink: /316
+permalink: /317
 date: 2020-08-12
 ---
 

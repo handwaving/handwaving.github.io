@@ -3,7 +3,7 @@ title: Research Priorities
 author: Jeremy
 tags: [research, presentations, details]
 imagelink: ResearchPriorities
-permalink: /322
+permalink: /323
 date: 2020-08-26
 ---
 

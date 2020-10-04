@@ -3,7 +3,7 @@ title: Guardrails
 author: Jeremy
 tags: [education, teaching, knowledge]
 imagelink: Guardrails
-permalink: /321
+permalink: /322
 date: 2020-08-24
 ---
 

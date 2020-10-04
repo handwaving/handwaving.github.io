@@ -3,7 +3,7 @@ title: The Professor Effect
 author: Jeremy
 tags: [learning, education, professors, teachers]
 imagelink: TheProfessorEffect
-permalink: /303
+permalink: /304
 date: 2020-07-13
 ---
 

@@ -3,7 +3,7 @@ title: True Learning
 author: Jeremy
 tags: [education, learning]
 imagelink: TrueLearning
-permalink: /327
+permalink: /328
 date: 2020-09-07
 ---
 

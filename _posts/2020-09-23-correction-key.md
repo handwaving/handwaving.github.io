@@ -3,7 +3,7 @@ title: Correction Key
 author: Jeremy
 tags: [homework, physics]
 imagelink: CorrectionKey
-permalink: /334
+permalink: /335
 date: 2020-09-23
 ---
 

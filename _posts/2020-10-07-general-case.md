@@ -3,7 +3,7 @@ title: General Case
 author: Jeremy
 tags: [mathematics, teaching, life]
 imagelink: GeneralCase
-permalink: /340
+permalink: /341
 date: 2020-10-07
 ---
 

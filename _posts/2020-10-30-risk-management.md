@@ -3,7 +3,7 @@ title: Risk Management
 author: Jeremy
 tags: [life, risk]
 imagelink: RiskManagement
-permalink: /350
+permalink: /351
 date: 2020-10-30
 ---
 

@@ -3,7 +3,7 @@ title: Physics Marketing
 author: Jeremy
 tags: [marketing, physics, history, fame]
 imagelink: PhysicsMarketing
-permalink: /313
+permalink: /314
 date: 2020-08-05
 ---
 

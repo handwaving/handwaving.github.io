@@ -3,7 +3,7 @@ title: Inspection
 author: Jeremy
 tags: [research, grad students, academia, papers]
 imagelink: Inspection
-permalink: /357
+permalink: /358
 date: 2020-11-16
 ---
 

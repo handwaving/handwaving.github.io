@@ -3,7 +3,7 @@ title: Academically Secure
 author: Jeremy
 tags: [academia]
 imagelink: AcademicallySecure
-permalink: /345
+permalink: /346
 date: 2020-10-19
 ---
 

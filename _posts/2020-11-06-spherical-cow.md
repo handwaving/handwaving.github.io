@@ -3,7 +3,7 @@ title: Spherical Cow
 author: Jeremy
 tags: [physics, problems, research, approximations]
 imagelink: SphericalCow
-permalink: /353
+permalink: /354
 date: 2020-11-06
 ---
 

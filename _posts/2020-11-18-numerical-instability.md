@@ -3,7 +3,7 @@ title: Numerical Instability
 author: Jeremy
 tags: [research, machine learning, neural networks]
 imagelink: NumericalInstability
-permalink: /358
+permalink: /359
 date: 2020-11-18
 ---
 

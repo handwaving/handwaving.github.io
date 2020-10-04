@@ -3,7 +3,7 @@ title: Fractional Gains
 author: Jeremy
 tags: [students, research, obligations]
 imagelink: FractionalGains
-permalink: /289
+permalink: /290
 date: 2020-06-10
 ---
 

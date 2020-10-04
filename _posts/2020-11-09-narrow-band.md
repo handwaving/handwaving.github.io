@@ -3,7 +3,7 @@ title: Narrow Band
 author: Jeremy
 tags: [physics, research, education]
 imagelink: NarrowBand
-permalink: /354
+permalink: /355
 date: 2020-11-09
 ---
 

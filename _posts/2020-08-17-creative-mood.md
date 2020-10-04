@@ -3,7 +3,7 @@ title: Creative Mood
 author: Jeremy
 tags: [work, writing, drawing, creativity]
 imagelink: CreativeMood
-permalink: /318
+permalink: /319
 date: 2020-08-17
 ---
 

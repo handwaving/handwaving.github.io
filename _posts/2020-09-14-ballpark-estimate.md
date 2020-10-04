@@ -3,7 +3,7 @@ title: Ballpark Estimate
 author: Jeremy
 tags: [homework, education, physics, graduate school]
 imagelink: BallparkEstimate
-permalink: /330
+permalink: /331
 date: 2020-09-14
 ---
 

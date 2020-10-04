@@ -3,7 +3,7 @@ title: Username Selection
 author: Jeremy
 tags: [services]
 imagelink: UsernameSelection
-permalink: /306
+permalink: /307
 date: 2020-07-20
 ---
 

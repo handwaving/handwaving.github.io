@@ -3,7 +3,7 @@ title: Project Dilation
 author: Jeremy
 tags: [projects, work, research, relativity]
 imagelink: ProjectDilation
-permalink: /328
+permalink: /329
 date: 2020-09-09
 ---
 

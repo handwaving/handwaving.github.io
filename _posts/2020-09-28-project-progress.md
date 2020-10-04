@@ -3,7 +3,7 @@ title: Project Progress
 author: Jeremy
 tags: [projects, research]
 imagelink: ProjectProgress
-permalink: /336
+permalink: /337
 date: 2020-09-28
 ---
 

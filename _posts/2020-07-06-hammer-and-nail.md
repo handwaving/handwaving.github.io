@@ -3,7 +3,7 @@ title: Hammer and Nail
 author: Jeremy
 tags: [physics]
 imagelink: HammerAndNail
-permalink: /300
+permalink: /301
 date: 2020-07-06
 ---
 

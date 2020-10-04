@@ -3,7 +3,7 @@ title: Homework Progression
 author: Jeremy
 tags: [education, homework]
 imagelink: HomeworkProgression
-permalink: /304
+permalink: /305
 date: 2020-07-15
 ---
 

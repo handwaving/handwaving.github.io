@@ -3,7 +3,7 @@ title: Enthusiastic PR
 author: Jeremy
 tags: [science, research, claims, hype]
 imagelink: EnthusiasticPR
-permalink: /346
+permalink: /347
 date: 2020-10-21
 ---
 

@@ -3,7 +3,7 @@ title: Cherry Picking
 author: Jeremy
 tags: [research, science]
 imagelink: CherryPicking
-permalink: /305
+permalink: /306
 date: 2020-07-17
 ---
 

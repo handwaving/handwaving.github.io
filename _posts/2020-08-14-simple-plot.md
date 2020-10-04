@@ -3,7 +3,7 @@ title: Simple Plot
 author: Jeremy
 tags: [numerical, computation, research, plots]
 imagelink: SimplePlot
-permalink: /317
+permalink: /318
 date: 2020-08-14
 ---
 

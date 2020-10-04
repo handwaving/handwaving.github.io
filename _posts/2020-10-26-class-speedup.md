@@ -3,7 +3,7 @@ title: Class Speedup
 author: Jeremy
 tags: [teaching, education]
 imagelink: ClassSpeedup
-permalink: /348
+permalink: /349
 date: 2020-10-26
 ---
 

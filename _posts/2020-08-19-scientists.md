@@ -3,7 +3,7 @@ title: Scientists
 author: Jeremy
 tags: [scientists, rationality, science]
 imagelink: Scientists
-permalink: /319
+permalink: /320
 date: 2020-08-19
 ---
 

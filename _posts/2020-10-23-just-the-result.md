@@ -3,7 +3,7 @@ title: Just the Result
 author: Jeremy
 tags: [education, science, mathematics, calculations, homework]
 imagelink: JustTheResult
-permalink: /347
+permalink: /348
 date: 2020-10-23
 ---
 

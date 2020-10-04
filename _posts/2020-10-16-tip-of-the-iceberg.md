@@ -3,7 +3,7 @@ title: Tip of the Iceberg
 author: Jeremy
 tags: [conversations, knowledge, expertise]
 imagelink: TipOfTheIceberg
-permalink: /344
+permalink: /345
 date: 2020-10-16
 ---
 

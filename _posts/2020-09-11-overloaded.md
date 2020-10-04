@@ -3,7 +3,7 @@ title: Overloaded
 author: Jeremy
 tags: [notation, physics, mathematics]
 imagelink: Overloaded
-permalink: /329
+permalink: /330
 date: 2020-09-11
 ---
 

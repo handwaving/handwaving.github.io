@@ -3,7 +3,7 @@ title: Linear Theory
 author: Jeremy
 tags: [physics, research, data]
 imagelink: LinearTheory
-permalink: /356
+permalink: /357
 date: 2020-11-13
 ---
 

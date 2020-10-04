@@ -3,7 +3,7 @@ title: Perspective
 author: Jeremy
 tags: [science, research, knowledge]
 imagelink: Perspective
-permalink: /351
+permalink: /352
 date: 2020-11-02
 ---
 
