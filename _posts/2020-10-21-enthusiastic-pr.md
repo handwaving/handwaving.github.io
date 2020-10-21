@@ -7,7 +7,7 @@ permalink: /347
 date: 2020-10-21
 ---
 
-![A bold new headline with a lot of big claims about some new science.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best/v1535842782/Handwaving/Published/{ post.imagelink }.png){: .centre-image }
+![A bold new headline with a lot of big claims about some new science.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best/v1535842782/Handwaving/Published/{{ page.imagelink }}.png){: .centre-image }
 
 Just because scientists did it, doesn't mean we should take it on faith.
 
