@@ -7,7 +7,7 @@ permalink: /350
 date: 2020-10-28
 ---
 
-![Emailing a professor seems like it could take just a minute, but in reality takes several hours.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best/v1535842782/Handwaving/Published/{ post.imagelink }.png){: .centre-image }
+![Emailing a professor seems like it could take just a minute, but in reality takes several hours.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best/v1535842782/Handwaving/Published/{{ page.imagelink }}.png){: .centre-image }
 
 The time professors spend reading your email is inversely proportional to the time you spend writing it.
 
