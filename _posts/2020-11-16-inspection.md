@@ -7,7 +7,7 @@ permalink: /358
 date: 2020-11-16
 ---
 
-![Grad students think that lines in a research paper are much more significant than they really are.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best/v1535842782/Handwaving/Published/Inspection.png){: .centre-image }
+![Grad students think that lines in a research paper are much more significant than they really are.](https://res.cloudinary.com/dh3hm8pb7/image/upload/c_scale,q_auto:best/v1535842782/Handwaving/Published/{{ page.imagelink }}.png){: .centre-image }
 
 "Do you think you should maybe polish up this draft a bit for clarity?"
 
