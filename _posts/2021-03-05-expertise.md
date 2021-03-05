@@ -11,4 +11,4 @@ date: 2021-03-05
 
 This is me reading a paper *all the time*.
 
-Note: I contributed this comic to James Propp for his [January issue of *Mathematical Enchantments*](https://mathenchant.wordpress.com/2020/12/14/children-of-the-labyrinth/). 
+Note: I contributed this comic to James Propp for his [December issue of *Mathematical Enchantments*](https://mathenchant.wordpress.com/2020/12/14/children-of-the-labyrinth/). 
