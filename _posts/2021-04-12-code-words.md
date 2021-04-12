@@ -1,5 +1,5 @@
 ---
-title: CodeWords
+title: Code Words
 author: Jeremy
 tags: [physics]
 imagelink: CodeWords
