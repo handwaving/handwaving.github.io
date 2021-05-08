@@ -1,5 +1,5 @@
 ---
-title: Nonlinear
+title: Non-Linear
 author: Jeremy
 tags: [science, physics, education]
 imagelink: Nonlinear
