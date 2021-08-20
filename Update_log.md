@@ -442,5 +442,6 @@ published: false
 - August 11, 2021
 - August 13, 2021
 - August 16, 2021
-- AUgust 18, 2021
+- August 18, 2021
+- August 20, 2021
 - 
