@@ -10,13 +10,13 @@ permalink: /about
 
 Okay, you want a bit more. My name is Jeremy. Is that enough?
 
-**Description:** A comic about science, mathematics, and the student life. In this comic, topics will include: doing research, navigating academia, laboratory work, studying, writing exams or assignments, and graduate studies. If time remains, advanced topics such as mentoring, finding work in industry, and the perils of popular science will be covered.
+**Description:** A comic about science, mathematics, and the student life. In this comic, topics include: doing research, navigating academia, laboratory work, studying, writing exams or assignments, and graduate studies. If time remains, I'll cover advanced topics such as mentoring, finding work in industry, and the perils of popular science.
 
-**Purpose:** The goal of this comic is to map out the landscape of science and mathematics. Through (dry) humour and visuals, the comic will help serve to illustrate important realities in science and mathematics, even to non-experts.
+**Purpose:** The goal of this comic is to map out the landscape of science and mathematics. Through (dry) humour and visuals, the comic illustrates important realities in science and mathematics, even to non-experts.
 
-**Schedule:** Every Monday, Wednesday, and Friday, around 06:00. Make-up times can be arranged if there are extraordinary circumstances.
+**Schedule:** Every Monday, Wednesday, and Friday, around 06:00. I can arrange make-up times if there are extraordinary circumstances.
 
-**Prerequisites:** Knowledge of [xkcd](https://www.xkcd.com), [ErrantScience](https://www.errantscience.com), and [Math With Bad Drawings](https://www.mathwithbaddrawings.com) is assumed. Experience with physics and mathematics is helpful, but not always necessary. Can be taken concurrently with the above comics.
+**Prerequisites:** I assume knowledge of [xkcd](https://www.xkcd.com), [ErrantScience](https://www.errantscience.com), and [Math With Bad Drawings](https://www.mathwithbaddrawings.com). Experience with physics and mathematics is helpful, but not always necessary. Can be taken concurrently with the above comics.
 
 **Suggested Readings:**
   - For philosophical fulfillment: [Existential Comics](https://www.existentialcomics.com).
@@ -31,12 +31,12 @@ Okay, you want a bit more. My name is Jeremy. Is that enough?
 
 
 **Miscellaneous Notes:**
-  - This comic is made by hand (e.g. drawn with a finger as a stylus) on a very old tablet using the app [Tayasui Sketches Pro](http://tayasui.com/sketches/). This probably isn't the best tool to use, but it's what works for me.
-  - The comic is made in mostly black and white in order to facilitate easy printing.
+  - ~~I draw this comic by hand (e.g. drawn with a finger as a stylus) on a very old tablet using the app [Tayasui Sketches Pro](http://tayasui.com/sketches/). This probably isn't the best tool to use, but it's what works for me.~~ I now draw using an Apple Pencil with [Adobe Fresco](https://www.adobe.com/ca/products/fresco.html).
+  - The comic is usually black and white for easy printing.
   - The best way to get these comics delivered is through the [RSS feed]({{ site.github.url }}/feed).
   - Handwaving will never have advertisements, because that's not what the site is for. See **Purpose** above.
-  - Related to the above point, Handwaving does not have a huge presence on social media. This is not because the author of Handwaving does not know how to use social media, but because they believe there are better ways to use one's time. However, it has been pointed out that a lot of people would like to follow the comics through social media, so Handwaving is now on [Twitter](https://twitter.com/HandwavingComic). Still, the RSS feed is the best way to stay up to date with the comic. RSS is an open-source technology that you curate, not some algorithm that a company comes up with to monetize your eyeballs.
+  - Related to the above point, Handwaving does not have a huge presence on social media. This isn't because I don't know how to use social media, but because there are better ways to use my time. However, some people pointed out to me that they would like to follow the comics through social media, so Handwaving is now on [Twitter](https://twitter.com/HandwavingComic). Still, the RSS feed is the best way to stay up to date with the comic. RSS is an open-source technology that you curate, not some algorithm that a company comes up with to monetize your eyeballs.
 
-**Reuse:** This comic is made for the enjoyment of all. As such, there is no problem if one wants to use a comic found here for non-profit use. In particular, it is highly encouraged to print these comics out and hang them in laboratories, classrooms, or offices. Share the love of mathematics and science!
+**Reuse:** I make this comic for the enjoyment of all. As such, there is no problem if you want to use a comic for non-profit use. In particular, I encourage you to print these comics out and hang them in laboratories, classrooms, or offices. Share the love of mathematics and science!
 
 One thing I do ask is to link back to the site if you want to use a comic elsewhere. The reason is simple: this is the canonical place to get the comics. By pointing back to here, you're helping others find these comics.
