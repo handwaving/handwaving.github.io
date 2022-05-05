@@ -2,7 +2,7 @@
 title: Project Timeline
 author: Jeremy
 tags: [research, projects]
-imagelink: Project Timeline
+imagelink: ProjectTimeline
 permalink: /587
 date: 2022-05-04
 ---
