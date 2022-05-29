@@ -3,7 +3,7 @@ title: Minefield
 author: Jeremy
 tags: [academia, writing, papers]
 imagelink: Minefield
-permalink: /596
+permalink: /597
 date: 2022-05-27
 ---
 
