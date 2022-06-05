@@ -11,4 +11,4 @@ date: 2021-01-01
 
 Not depicted: proof by praying that nobody scrutinizes your work too closely.
 
-Edit (2022-06-05): I forgot to give attribution to where this idea came from. It was from this [lovely presentation](http://danaernst.com/talks/MAT123Fall2017/MAT123Talk171023.pdf) by [Dana Earnst](http://danaernst.com/).
+Edit (2022-06-05): I forgot to give attribution to where this idea came from. It was from this [lovely list](http://jwilson.coe.uga.edu/EMT668/EMAT6680.F99/Challen/proof/proof.html) by [Jon Challen](http://jwilson.coe.uga.edu/EMT668/EMAT6680.F99/Challen/challen.html). Thank you!
