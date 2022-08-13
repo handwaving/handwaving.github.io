@@ -2,7 +2,7 @@
 title: Time Management
 author: Jeremy
 tags: [PhD]
-imagelink: Time Management
+imagelink: TimeManagement
 permalink: /630
 date: 2022-08-12
 ---
