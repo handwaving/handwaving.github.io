@@ -2,7 +2,7 @@
 title: The Weight of Expectations
 author: Jeremy
 tags: [pressure, life]
-imagelink: TheWeightOfExpecations
+imagelink: TheWeightOfExpectations
 permalink: /656
 date: 2022-10-12
 ---
