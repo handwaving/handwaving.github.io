@@ -2,7 +2,7 @@
 title: Easy Answers
 author: Jeremy
 tags: [questions]
-imagelink: Easy Answers
+imagelink: EasyAnswers
 permalink: /663
 date: 2022-10-28
 ---
