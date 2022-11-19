@@ -2,7 +2,7 @@
 title: Into the Unknown
 author: Jeremy
 tags: [research]
-imagelink: IntoTheKnown
+imagelink: IntoTheUnknown
 permalink: /666
 date: 2022-11-04
 ---
