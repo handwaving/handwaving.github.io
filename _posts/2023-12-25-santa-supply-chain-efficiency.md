@@ -1,7 +1,7 @@
 ---
 title: Santa Supply Chain Efficiency
 author: Jeremy
-tags: [christmas]
+tags: [Christmas]
 imagelink: SantaSupplyChainEfficiency
 permalink: /816
 date: 2023-12-25
