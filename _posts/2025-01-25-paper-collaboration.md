@@ -2,7 +2,7 @@
 title: Paper Collaboration
 author: Jeremy
 tags: [writing, papers, academia, collaboration]
-imagelink: Paper Collaboration
+imagelink: PaperCollaboration
 permalink: /869
 date: 2025-01-25
 ---
